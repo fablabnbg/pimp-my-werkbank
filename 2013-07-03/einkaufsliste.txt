@@ -1,0 +1,47 @@
+Werkbank Teil 1
+===============
+
+4x 	19mm Span, Verlegeplatte 2050 x 925 mm 
+4x 	Schubladengriff Alu rund, 95 mm
+10x 	Blechwinkel 40x40x60
+10x 	Flachverbinder 120x60
+(200x 	Spax 35mm)
+(200x 	Spax 60mm)
+(100x 	Holzdübel 6mm)
+2x 	Dübelzentrierer 6mm
+2x 	Kreuzschlitz Bits
+1x	Puk Säge
+2x	Tube Holzleim Uhu 
+2x	Bogen Schleifpapier 240
+
+
+Zuschnitt
+---------
+
+19mm Spanplatte	
+
+9x  	908 x 700 mm
+12x	420 x 700 mm
+4x	 40 x 420 mm
+2x	1400 x 350 mm
+3x	1400 x 100 mm
+
+p 9*.908*0.7 + 12*.42*0.7 + 4*.04*.42 + 3*1.4*.12 + 2*1.4*.35
+			-> 10.8 qm
+
+16mm Spanplatte
+
+4x	435 x 115 mm
+4x	 90 x 380 mm
+4x	100 x 380 mm
+4x      700 x 380 mm
+8x	700 x 105 mm
+
+p 4*.435*.115 + 4*.09*.38 + 4*.1*.38 + 4*.7*.38 + 8*.7*.105
+			-> 2.14 qm
+
+10mm Spanplatte
+4x	 60 x 420 mm
+
+4mm Hartfaser
+7x	1000 x 38 mm
