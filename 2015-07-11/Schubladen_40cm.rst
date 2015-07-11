@@ -27,8 +27,8 @@
 	8x	 60 x 400 mm	Schubkasten Anschlagleiste oben
 
 
-Kiefernholz 20x20 mmm
----------------------
+Kantholz 24x24 mmm gehobelt
+---------------------------
 ::
 
-	8x	660 mm 		Drei aus einer 2m Leiste. Oder Buche.
+	8x	660 mm 		Drei aus einer 2m Leiste. (oder 3x 700mm aus 2.40m)
