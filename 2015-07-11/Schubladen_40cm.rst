@@ -1,18 +1,17 @@
-			jw, Sat Jul 11 13:45:28 CEST 2015
+				jw, Sat Jul 11 13:45:28 CEST 2015
 
 8 neue Schubladen
 =================
 
-.. code-block::
 
-	(100x 	Holzdübel 6mm)
-	8x       Griff 100mm
+*	(100x 	Holzdübel 6mm)
+
+*	8x       Griff 100mm
 
 
 16mm Spanplatte
 ---------------
-
-.. code-block::
+::
 
 	8x	415 x 115 mm	Schubkasten Front
 	8x	 90 x 360 mm	Schubkasten Rückwand aussen geleimt
@@ -23,15 +22,13 @@
 
 10mm Spanplatte
 ---------------
-
-.. code-block::
+::
 
 	8x	 60 x 400 mm	Schubkasten Anschlagleiste oben
 
 
 Kiefernholz 20x20 mmm
 ---------------------
+::
 
-.. code-block::
-
-	8x	660 mm 		drei aus einer 2m Leiste. Oder Buche.
+	8x	660 mm 		Drei aus einer 2m Leiste. Oder Buche.
